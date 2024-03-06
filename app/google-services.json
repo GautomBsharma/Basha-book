@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089795936753",
+    "firebase_url": "https://basha-sikka-default-rtdb.firebaseio.com",
+    "project_id": "basha-sikka",
+    "storage_bucket": "basha-sikka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089795936753:android:9b665933952a72c47e3450",
+        "android_client_info": {
+          "package_name": "com.mksolution.bashabook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dsPYgMd5cxd6-B9d93a3h3MtyllH9-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basha Book</string>
+    <string name="arbi_text">সৌদি আরব, কাতার, দুবাই, কুয়েত, ওমান দেশগুলোতে আরবি ভাষার ব্যাবহার হয়।</string>
+    <string name="maloy_hint">মালয়েশিয়া, সিঙ্গাপুরে মালয় ভাষার ব্যাবহার হয়।</string>
+</resources>
